@@ -7,7 +7,7 @@ Switch this: `$testMode = $false` to `$testMode = $true` if you'd like to run it
 Update this: `$primaryDirectory = "E:\inetpub\websites"` IE: `$primaryDirectory = "C:\mypathhere"` to specify your top-level directory.
 
 NOTE* You will need to run this script in an administrator priviledged power shell console.
-
+```
 EXAMPLE:
 C:/inetpub/wwwroot/
 ├── mywebsite1/
@@ -53,3 +53,4 @@ Example Output:
 
 Total files deleted: 9
 Total size deleted: 45.67 MB
+```
