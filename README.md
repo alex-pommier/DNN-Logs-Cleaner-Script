@@ -5,3 +5,5 @@ There is a `testMode` you can toggle on & off to simulate a run without deleting
 Switch this: `$testMode = $false` to `$testMode = $true` if you'd like to run it in test mode.
 
 Update this: `$primaryDirectory = "E:\inetpub\websites"` IE: `$primaryDirectory = "C:\mypathhere"` to specify your top-level directory.
+
+NOTE* You will need to run this script in an administrator priviledged power shell console.
